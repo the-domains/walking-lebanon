@@ -1,0 +1,28 @@
+name: Walking Lebanon
+favicon: null
+layout_spectrum: 0.8438199034426361
+typography_spectrum: 0.9866734247189015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5432223419193178
+  lightness: 0.4042656652163714
+  saturation: 0.031788232969120145
+  rhythmicContrast: 0.9028104061726481
+purpose: []
