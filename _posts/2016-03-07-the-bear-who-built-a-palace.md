@@ -6,24 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:08:39.419Z'
-dateModified: '2016-03-07T10:08:24.261Z'
+datePublished: '2016-03-07T10:16:42.397Z'
+dateModified: '2016-03-07T10:16:41.731Z'
 title: The Bear Who Built a Palace
 author: []
+sourcePath: _posts/2016-03-07-the-bear-who-built-a-palace.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-07-the-bear-who-built-a-palace.md
-published: true
 url: the-bear-who-built-a-palace/index.html
 _type: Article
 
 ---
-**The Bear Who Built a Palace and Discovered a King**
-
 ## Until 1950, the seaward end of Martyr's Square was blocked by the vaguely school house-esque sandstone bulk of the Petit Serail. 
 
 So named to distinguish it from its larger sibling, the former Ottoman Army barracks-turned-prime ministerial residence on the rise above the city centre, the Little Serail led a rather short life.
