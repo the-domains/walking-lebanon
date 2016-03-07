@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-07T10:16:42.397Z'
-dateModified: '2016-03-07T10:16:41.731Z'
+datePublished: '2016-03-07T10:18:42.957Z'
+dateModified: '2016-03-07T10:18:24.857Z'
 title: The Bear Who Built a Palace
 author: []
 sourcePath: _posts/2016-03-07-the-bear-who-built-a-palace.md
@@ -22,9 +22,9 @@ url: the-bear-who-built-a-palace/index.html
 _type: Article
 
 ---
-## Until 1950, the seaward end of Martyr's Square was blocked by the vaguely school house-esque sandstone bulk of the Petit Serail. 
+## The Bear Who Built a Palace and Discovered a King.
 
-So named to distinguish it from its larger sibling, the former Ottoman Army barracks-turned-prime ministerial residence on the rise above the city centre, the Little Serail led a rather short life.
+Until 1950, the seaward end of Martyr's Square was blocked by the vaguely school house-esque sandstone bulk of the Petit Serail. So named to distinguish it from its larger sibling, the former Ottoman Army barracks-turned-prime ministerial residence on the rise above the city centre, the Little Serail led a rather short life.
 
 Finished in 1884, it replaced the Mansour Assaf Palace as the residence of the Wali, the Ottoman Governor of the Vilayet of Beirut. Unlike the Mansour Assaf, which had stood inside the city walls (Beirut did not begin to expand beyond its ancient footprint until the 19th Century), the Petit Serail was built outside and replaced a caravanserai that had stood near one of the city gates, the Bab as-Saraya, for several hundred years.
 
